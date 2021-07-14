@@ -7,7 +7,6 @@ import jesus.rosas.newsapp.R
 import jesus.rosas.newsapp.listeners.RecyclerArticleListener
 import jesus.rosas.newsapp.model.Article
 import jesus.rosas.newsapp.model.inflate
-import kotlinx.android.synthetic.main.card_layout.view.*
 
 class ArticleAdapter(private val articles: List<Article>, private val listener: RecyclerArticleListener)
     : RecyclerView.Adapter<ArticleAdapter.ViewHolder>() {

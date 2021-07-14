@@ -4,13 +4,17 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.google.android.material.tabs.TabItem
 import com.google.android.material.tabs.TabLayout
+import jesus.rosas.newsapp.R
 import jesus.rosas.newsapp.adapter.ViewPagerAdapter
 import jesus.rosas.newsapp.fragment.LocalFragment
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+
+    private lateinit var binding: ActivityMainBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContentView(R.layout.activity_main)
 
         setUpTabs()
