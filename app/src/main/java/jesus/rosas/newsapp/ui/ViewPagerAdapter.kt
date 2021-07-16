@@ -1,4 +1,4 @@
-package jesus.rosas.newsapp.adapter
+package jesus.rosas.newsapp.ui
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
@@ -24,6 +24,7 @@ class ViewPagerAdapter(supportFragmenManager: FragmentManager) : FragmentPagerAd
     fun addFragment(fragment: Fragment, title: String){
         fragmentList.add(fragment)
         fragmentTitleList.add(title)
+        notifyDataSetChanged()
     }
 
 }
