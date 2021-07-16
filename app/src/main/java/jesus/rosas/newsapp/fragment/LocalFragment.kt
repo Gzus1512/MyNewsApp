@@ -13,7 +13,6 @@ import jesus.rosas.newsapp.adapter.ArticleAdapter
 import jesus.rosas.newsapp.listeners.RecyclerArticleListener
 import jesus.rosas.newsapp.model.Article
 import jesus.rosas.newsapp.model.toast
-import kotlinx.android.synthetic.main.fragment_local.view.*
 
 class LocalFragment : Fragment() {
 
