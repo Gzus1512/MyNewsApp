@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Casai Master/Documents/casai/android/MyNewsApp/app/src/main/res/layout/card_layout.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/layout/card_layout.xml" value="0.2" />
         <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_departures.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_local.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/chuch/AndroidStudioProjects/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135281009918",
+    "project_id": "newsapp-c688a",
+    "storage_bucket": "newsapp-c688a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135281009918:android:bc2bee5440993c50f7b1af",
+        "android_client_info": {
+          "package_name": "jesus.rosas.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135281009918-2bclrbpatv2ii90kfsk0g8b7bbfkg0un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxO5dmgLGbBfJ6zMA3BvVzEb4psJisR3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135281009918-2bclrbpatv2ii90kfsk0g8b7bbfkg0un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
