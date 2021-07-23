@@ -68,10 +68,11 @@
         android:id="@+id/buttonGoLogin"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="24dp"
         android:text="Acceder con Google"
-        android:textColor="@color/design_default_color_on_primary"
+        android:textColor="#ffe915"
         android:textSize="18sp"
+        android:backgroundTint="@color/bermellon"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
