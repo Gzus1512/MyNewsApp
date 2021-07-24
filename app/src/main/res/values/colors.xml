@@ -7,5 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="bermellon">#E62E1B</color>
+    <color name="bermellon">#A0D95030</color>
+    <color name="purple">#A0846D74</color>
+    <color name="green_trans">#A0117C6F</color>
+    <color name="green_nine">#5C9090</color>
 </resources>
